@@ -1,4 +1,4 @@
-# À propos
+# À propos, 
 
 ```{image} ./img/ma_photo.png
 :alt: Photo de profil
@@ -7,4 +7,4 @@
 :align: left
 ```
 \
-Je suis étudiant(e) en bachelor en **[nom du programme]** à l'**UNIL**, avec un intérêt particulier pour **[domaine principal / spécialisation]**.
+Je suis étudiant(e) en bachelor en géographie, environnement et sociétés à l'UNIL, avec un intérêt particulier pour **[domaine principal / spécialisation]**.
