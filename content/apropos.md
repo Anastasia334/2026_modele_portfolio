@@ -7,4 +7,4 @@
 :align: left
 ```
 \
-Je suis étudiant(e) en bachelor en géographie, environnement et sociétés à l'UNIL, avec un intérêt particulier pour **[domaine principal / spécialisation]**.
+Je suis étudiante en bachelor en géographie, environnement et sociétés à l'UNIL, avec un intérêt particulier pour l'environnement et les pratiques socales.
