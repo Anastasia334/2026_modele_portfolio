@@ -1,6 +1,6 @@
 # Portfolio de compétences
 
-**Orientation :**
+**Orientation :** Géographie, environnement et sociétés
 
 [Lien de l'arbre des connaissances](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/) *(filtre sur ton orientation)*
 
@@ -10,11 +10,11 @@
 
 *Celles que tu reconnais, pas celles que tu devrais avoir. La référence suffit, par ex. TELEDE-3, avec trois mots d'intitulé.*
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. AMENTERR-3 : Soft Skills, enjeux spatiaux
+2. DYNAURBACAM-2 : Méthodes, terrain, travailler en equipe
+3. GEOMORI-2 : lire le paysage, se faire un oeil géomorphologique
+4. GESTEAU-3 : maîtriser des concepts
+5. METHQUANSTATIII-3 : pouvoir interpreter et representer des résultats statistiques
 
 ---
 
