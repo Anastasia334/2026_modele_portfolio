@@ -14,7 +14,7 @@
 2. DYNAURBACAM-2 : Méthodes, terrain, travailler en equipe
 3. GEOMORI-2 : lire le paysage, se faire un oeil géomorphologique
 4. GESTEAU-3 : maîtriser des concepts
-5. TELEDE-1 : pouvoir interpreter et representer des résultats statistiques
+5. TELEDE-1 : traiter des images, les classifier 
 
 ---
 
